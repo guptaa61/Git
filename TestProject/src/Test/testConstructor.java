@@ -12,26 +12,26 @@ public class testConstructor {
 	}
 	public int add(int a , int b)
 	{
-		int c=a+b;
-		return c;
+		
+		return a+b;
 		
 	}
 	public int substract(int a , int b)
 	{
-		int c=a-b;
-		return c;
+		
+		return a-b;
 		
 	}
 	public int Multiply(int a , int b)
 	{
-		int c=a*b;
-		return c;
+		
+		return a*b;
 		
 	}
 	public int Divide(int a , int b)
 	{
-		int c=a/b;
-		return c;
+		
+		return a/b;
 		
 	}
 }
