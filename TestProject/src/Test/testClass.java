@@ -21,6 +21,7 @@ public class testClass extends testConstructor {
 		
 		
 		System.out.println("test");
+		System.out.println("test");
 	}
 
 }
