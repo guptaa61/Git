@@ -18,7 +18,10 @@ public class testClass extends testConstructor {
 		t1.Multiply(10, 3);
 		System.out.println(t1.Multiply(10, 3));
 				
-		System.out.println("Master");
+		
+		System.out.println("Branch");
+		
+		
 		
 	
 	}
