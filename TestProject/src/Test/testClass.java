@@ -19,6 +19,8 @@ public class testClass extends testConstructor {
 		System.out.println(t1.Multiply(10, 3));
 		
 		System.out.println("Branch");
+		System.out.println("master or slave");
+		System.out.println("asd");
 		
 		
 	
