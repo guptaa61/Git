@@ -6,8 +6,8 @@ public class testClass extends testConstructor {
 	
 		testConstructor t1= new testConstructor();
 	
-		t1.add(20, 30);
-		System.out.println(t1.add(20, 30));
+		int Addition =t1.add(20, 30);
+		System.out.println(Addition);
 		
 		t1.Divide(20,3);
 		System.out.println(t1.Divide(20,3));
@@ -20,7 +20,7 @@ public class testClass extends testConstructor {
 		
 		
 		
-		
+		System.out.println("test");
 	}
 
 }
