@@ -20,6 +20,8 @@ public class testClass extends testConstructor {
 				
 		System.out.println("Master");
 		System.out.println("Branch");
+		System.out.println("master or slave");
+		System.out.println("asd");
 	
 	}
 
