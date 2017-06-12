@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="26" started-at="2017-06-10T18:42:18Z" finished-at="2017-06-10T18:42:18Z">
+  <suite name="Default suite" duration-ms="37" started-at="2017-06-12T08:57:33Z" finished-at="2017-06-12T08:57:33Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="26" started-at="2017-06-10T18:42:18Z" finished-at="2017-06-10T18:42:18Z">
+    <test name="Default test" duration-ms="37" started-at="2017-06-12T08:57:33Z" finished-at="2017-06-12T08:57:33Z">
       <class name="Test.testNG">
-        <test-method status="PASS" signature="login()[pri:0, instance:Test.testNG@174d20a]" name="login" is-config="true" duration-ms="7" started-at="2017-06-11T00:12:18Z" finished-at="2017-06-11T00:12:18Z">
+        <test-method status="PASS" signature="login()[pri:0, instance:Test.testNG@174d20a]" name="login" is-config="true" duration-ms="11" started-at="2017-06-12T14:27:33Z" finished-at="2017-06-12T14:27:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="test()[pri:0, instance:Test.testNG@174d20a]" name="test" duration-ms="4" started-at="2017-06-11T00:12:18Z" finished-at="2017-06-11T00:12:18Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:Test.testNG@174d20a]" name="test" duration-ms="7" started-at="2017-06-12T14:27:33Z" finished-at="2017-06-12T14:27:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="logout()[pri:0, instance:Test.testNG@174d20a]" name="logout" is-config="true" duration-ms="0" started-at="2017-06-11T00:12:18Z" finished-at="2017-06-11T00:12:18Z">
+        <test-method status="PASS" signature="logout()[pri:0, instance:Test.testNG@174d20a]" name="logout" is-config="true" duration-ms="0" started-at="2017-06-12T14:27:33Z" finished-at="2017-06-12T14:27:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logout -->
